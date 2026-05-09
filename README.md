@@ -6,7 +6,7 @@ An AI-powered research assistant that performs intelligent web research using mu
 
 # Live Demo
 
-## Frontend (Vercel)
+## Vercel)
 
 https://multi-agent-research-assistant-six.vercel.app/
 
@@ -18,14 +18,7 @@ https://multi-agent-research-assistant-production-49a6.up.railway.app/
 
 ---
 
-## Deployed link
 
-API URL:
-
-https://multi-agent-research-assistant-production-49a6.up.railway.app/
-
-
----
 
 # Features
 
