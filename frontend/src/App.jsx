@@ -19,7 +19,7 @@ function App() {
     try {
 
       const response = await axios.post(
-        "http://127.0.0.1:8000/research",
+        "https://multi-agent-research-assistant-production-49a6.up.railway.app/research",
         {
           query: query
         }
@@ -42,9 +42,7 @@ function App() {
 
     <div style={styles.container}>
 
-      {/* ================================================= */}
       {/* HEADER */}
-      {/* ================================================= */}
 
       <div style={styles.header}>
 
@@ -59,9 +57,7 @@ function App() {
 
       </div>
 
-      {/* ================================================= */}
       {/* SEARCH BOX */}
-      {/* ================================================= */}
 
       <div style={styles.searchBox}>
 
@@ -91,9 +87,7 @@ function App() {
 
       </div>
 
-      {/* ================================================= */}
       {/* LOADING */}
-      {/* ================================================= */}
 
       {loading && (
 
@@ -103,9 +97,7 @@ function App() {
 
       )}
 
-      {/* ================================================= */}
       {/* RESULTS */}
-      {/* ================================================= */}
 
       {result && (
 
