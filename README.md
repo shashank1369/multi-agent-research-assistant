@@ -6,8 +6,6 @@ An AI-powered research assistant that performs intelligent web research using mu
 
 # Live Demo
 
-## Vercel)
-
 https://multi-agent-research-assistant-six.vercel.app/
 
 ---
