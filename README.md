@@ -18,6 +18,15 @@ https://multi-agent-research-assistant-production-49a6.up.railway.app/
 
 ---
 
+## Deployed link
+
+API URL:
+
+https://multi-agent-research-assistant-production-49a6.up.railway.app/
+
+
+---
+
 # Features
 
 - AI-powered research workflow
@@ -77,14 +86,24 @@ https://multi-agent-research-assistant-production-49a6.up.railway.app/
                 │ Structured Research │
                 │       Report        │
                 └────────────────────┘
-Project Workflow
+
+
+
+
+##Project Workflow
+
 User enters a research topic
 Frontend sends request to FastAPI backend
 Search Agent gathers web research data
 Gemini AI analyzes the findings
 AI generates structured research response
 Frontend renders the final report
-Folder Structure
+
+
+
+
+##Folder Structure
+
 multi_agent_research_assistant/
 │
 ├── backend/
@@ -104,7 +123,10 @@ multi_agent_research_assistant/
 │   └── vite.config.js
 │
 └── README.md
-Local Installation Guide
+
+
+##Local Installation Guide
+
 1. Clone Repository
 git clone https://github.com/shashank1369/multi-agent-research-assistant.git
 2. Move Into Project
@@ -182,9 +204,6 @@ Backend deployed using:
 
 Railway
 
-API URL:
-
-https://multi-agent-research-assistant-production-49a6.up.railway.app/
 
 Environment Variables
 Backend
